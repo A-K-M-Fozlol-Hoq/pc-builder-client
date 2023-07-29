@@ -8,3 +8,11 @@
 
 
 Live link: https://pc-builder-omega-flame.vercel.app/
+
+
+## How To Run
+->Run these commands
+1. git clone https://github.com/A-K-M-Fozlol-Hoq/pc-builder-client.git
+2. cd pc-builder-client
+3. yarn install / npm install
+4. yarn dev / npm run dev
