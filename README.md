@@ -1,3 +1,6 @@
+## Description
+This is a PC Builder website for PC parts and components using Next.js. 
+
 ## Features
 1. User can view featured products and featured categories at home page.
 2. If user click "Show Details" button of any product then user will be redirected to details page of the product.
